@@ -25,7 +25,7 @@ def main():
     # User input for the upper limit
     upper_limit = int(input("Enter an upper limit to generate prime numbers: "))
 
-    # Generate and display prime numbers
+    # Generate and display prime numberss
     prime_numbers = generate_primes(upper_limit)
     print(f"Prime numbers up to {upper_limit} are: {prime_numbers}")
 
