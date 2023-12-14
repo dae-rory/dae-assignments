@@ -1,0 +1,8 @@
+Centralize CSS Management with External Stylesheets
+Link at least 1 external stylesheet containing all CSS styles to your project.
+
+Enhance Web Design with CSS Properties
+Include at least 1 'color', 1 'padding', 1 'margin', 1 'font-family', and 1 sizing property in your project.
+
+Improve Code Maintainability with CSS Selectors
+Use at least 7 distinct type selectors in your project.

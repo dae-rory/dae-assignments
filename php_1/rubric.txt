@@ -1,0 +1,12 @@
+
+Integrate distinct variable data types
+Use of at least 3 variables of different data types
+
+Create decision making with decision structures
+Integrate at least one decision-making structure into your project
+
+Modularize and organize your code with reusable functions
+At least one called custom function related to your project
+
+Create collections of data with arrays
+At least 1 one-dimensional array that is accessed and used in your project

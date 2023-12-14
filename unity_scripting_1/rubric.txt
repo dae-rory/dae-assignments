@@ -1,0 +1,27 @@
+MonoBehavior - Start()
+Start(): Implement code within the Start function to initialize variables or perform actions at the start of the script's execution.
+
+
+
+MonoBehavior - Awake()
+Awake(): Demonstrate the use of the Awake function to initialize objects, components, or perform setup before the game starts.
+
+
+
+MonoBehavior - Update()
+Update(): Implement the Update function to handle continuous per-frame logic, such as player input, object movement, or game state updates.
+
+
+
+MonoBehavior - FixedUpdate()
+FixedUpdate(): Utilize the FixedUpdate function for physics-related calculations, ensuring smooth and consistent updates, such as for rigid body interactions.
+
+
+
+GetComponent<type>()
+GetComponent<type>(): Show competence in using GetComponent<type>() to access and manipulate Unity components, demonstrating an understanding of component relationships.
+
+
+
+Vector Variables
+Create a Unity script that effectively uses Vector variables to manage positions, directions, or other vector-related data. include static properties. For example up, down, left, right, forward, etc This can be showcased by using either Vector2 or Vector3 based on the specific requirements of the project, whether it's a 2D or 3D context.

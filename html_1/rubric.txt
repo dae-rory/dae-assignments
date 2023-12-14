@@ -1,0 +1,11 @@
+Structure Content with Semantic HTML
+Include a 'header', 'main', 'footer', and 'nav' tag in the structure of your project.
+
+Design Interactive Web Elements
+Ensure your project contains at least 1 'anchor', 1 'div', 1 'img', and 1 'ul' or 'ol' tag.
+
+Enrich User Experience with HTML Attributes
+Integrate a minimum of 7 distinct attributes across the web elements in your project.
+
+Facilitate Web Navigation with Hyperlinks
+Add at least 1 hyperlink in your project that directs to a separate page.

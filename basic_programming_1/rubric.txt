@@ -1,0 +1,21 @@
+Descriptive Variable Names
+Use more than 1-character, descriptive variable names.
+
+Integrate Distinct Data Types
+Incorporate at least 3 variables of different data types
+
+Decision Making Structures
+Integrate at least one decision-making structure into your project
+
+Handle Repetitive Tasks
+Integrate at least one looping structure into your project to handle repetitive tasks.
+
+Modularization and Reusability
+Include at least one called custom function related to your project
+
+Collections of Data
+At least 1 iterated sequence with accessed and used elements in it.
+
+Code Documentation
+Comment the purpose of all functions
+	

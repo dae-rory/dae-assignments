@@ -1,0 +1,11 @@
+Creating Variables With Data Types
+More than 1 variable created and used in your project. Declare a variable and show use of any data type
+
+Create A Conditional Statement
+Implement one conditional statement using if statements. Must have basic syntax and working code
+
+Creating and Calling Functions
+Implementation of one working function that has been invoked
+
+Adding comments to Your Code
+At least one example of a single line or multi-line comment in your code. The comment must explain what is being done

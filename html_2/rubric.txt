@@ -1,0 +1,21 @@
+Utilize Semantic HTML for Enhanced Web Structure
+Include at least 1 section tag in your project
+
+Distinguish Textual Elements Using Specialized Tags
+Incorporate 'cite' and 'code' tags in your HTML content
+
+Enhance Tag Functionality with Multiple and Named Attributes
+Include at least 4 tags with more than one distinct attribute, including the use at least 1 attribute name as a value in your HTML project.
+
+Facilitate User Interaction through Form Elements
+Build a form in your HTML project using 'form', 'text input', 'textarea', 'submit', and 'checkbox' input types.
+
+Display Data Effectively with Customized HTML Tables
+Create a table using 'table', 'tr', and 'td' tags, and apply at least 1 column and 1 row span attribute
+
+Create Links for Web Navigation
+Create at least 1 hyperlink that opens in a new tab, at least 1 absolute link to an external website, and at least 1 relative link to a local file in your HTML project.
+
+Integrate Multimedia for Enhanced User Experience
+Add and configure at least 1 video and at least 1 audio file in your HTML content.
+	

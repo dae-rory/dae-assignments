@@ -1,0 +1,9 @@
+Components
+Demonstrate the use of 3 different components from Bootstrap. This can include navigation bars, buttons, cards, modals, etc Ensure that the components are properly integrated and responsive
+
+Grid System
+Implement a responsive layout using Bootstrap's grid system. You should have created a web page that utilizes Bootstrap's grid system to structure content into rows and columns Demonstrate the use of Bootstrap's "container" class to enclose grid-based content. Ensure that the layout responds effectively to different screen sizes
+
+Grid Columns
+Create a web page with at least one section that includes a multi-column layout. Implement grid columns to arrange content side by side in a visually appealing manner. Adjust column widths for different screen sizes, ensuring responsiveness.
+	

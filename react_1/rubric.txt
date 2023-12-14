@@ -1,0 +1,17 @@
+Functional Components
+Create at least 2 functional components and render them onto the screen.
+
+Passing Props to Components
+Create a parent component that passes props to child components. Ensure that the child components can access and display the passed props
+
+Style Components using CSS
+Style your react app with CSS
+
+Import and Export Components:
+Successfully import and export components between individual files. Ensure that imported components can be visible onto the screen
+
+Apply Images to Components:
+Integrate at minimum one image into into your React application using the '<img>' tag
+
+React Hooks
+Implement one React Hook into your application.

@@ -1,0 +1,27 @@
+Creating Variables With Data Types
+More than 1 variable created and used in your project. Declare a variable and show use of any data type
+
+
+
+Create A Conditional Statement
+Implement one conditional statement using if statements. Must have basic syntax and working code
+
+
+
+Demonstrate the use of loops
+Implement the use of a loop in your program performing a repetitive task
+
+
+
+Create a Function
+Create a custom function in your program. This function must be called in your program
+
+
+
+Access Level
+Demonstrate at least one example of private and public access levels
+
+
+
+Arrays/Lists
+Demonstrate the use of an array or lists in your C# program
