@@ -29,8 +29,3 @@ def main():
     # Generate and display prime numbers
     prime_numbers = generate_primes(upper_limit)
     print(f"Prime numbers up to {upper_limit} are: {prime_numbers}")
-
-
-# Calling the main function
-if __name__ == "__main__":
-    main()
