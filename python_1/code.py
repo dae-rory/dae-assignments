@@ -10,6 +10,7 @@ def is_prime(num):
 
 
 # Function to generate prime numbers up to a given limit
+# update
 def generate_primes(limit):
     """Generate a list of prime numbers up to a given limit."""
     primes = []
