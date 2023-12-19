@@ -6,6 +6,7 @@ while user_wants_workout:
     username = input("What's your fitness power song?: ")
     # print( "Welcome " + username + " how are you?" ) # Number 2 choice
     # print (f"Welcome {username} how are you?") # Recommended
+    # stuf
     print(
         f"\nGet ready to pump up the volume and pump some iron to the beat of {username}!\n\nYour fitness journey just got a soundtrack, and we're here to help you lift to the beat.\n\nRemember, at Fitplan, we don't just break a sweat; we break records and bad dance moves! Let's groove our way to a fitter you!\n"
     )
