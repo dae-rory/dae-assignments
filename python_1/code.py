@@ -1,6 +1,6 @@
 # Function to check if a number is prime
 def is_prime(num):
-    """Check if a number is prime."""
+    """Check if a number is prime.."""
     if num <= 1:
         return False
     for i in range(2, num):
